@@ -1,0 +1,11 @@
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\bin\Release\Perplex Lite.exe
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\bin\Release\Perplex Lite.pdb
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\bin\Release\Guna.UI2.dll
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex Lite.csproj.AssemblyReference.cache
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex Lite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex Lite.csproj.CoreCompileInputs.cache
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex Lite.csproj.CopyComplete
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex Lite.exe
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex Lite.pdb
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex_Lite.Form1.resources
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex Lite.csproj.GenerateResource.cache

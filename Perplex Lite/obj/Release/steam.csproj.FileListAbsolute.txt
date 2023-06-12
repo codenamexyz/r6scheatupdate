@@ -1,0 +1,11 @@
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\bin\Release\Guna.UI2.dll
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\steam.csproj.AssemblyReference.cache
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\steam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\Perplex_Lite.Form1.resources
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\steam.csproj.GenerateResource.cache
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\steam.csproj.CoreCompileInputs.cache
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\steam.csproj.CopyComplete
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\bin\Release\steam.exe
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\bin\Release\steam.pdb
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\steam.exe
+C:\Users\Snobbe\Desktop\niggerballs\Perplex Lite\obj\Release\steam.pdb
